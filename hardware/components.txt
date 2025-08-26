@@ -1,0 +1,7 @@
+Basic Components:
+- Arduino Uno
+- White LED (high brightness)
+- LDR / photodiode
+- 220 ohm resistor
+- Buzzer
+- Jumper wires, breadboard
